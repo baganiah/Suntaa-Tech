@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\GHL05\\docs\\listar\\build\\video_player_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\GHL05\\.gradle\\caches\\transforms-3\\680518b57c1c2d6151009cc511257c88\\transformed\\core-1.7.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\GHL05\\docs\\listar\\build\\video_player_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\GHL05\\.gradle\\caches\\transforms-3\\680518b57c1c2d6151009cc511257c88\\transformed\\core-1.7.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\GHL05\\docs\\listar\\build\\video_player_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\GHL05\\.gradle\\caches\\transforms-3\\680518b57c1c2d6151009cc511257c88\\transformed\\core-1.7.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\GHL05\\docs\\listar\\build\\video_player_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\GHL05\\.gradle\\caches\\transforms-3\\680518b57c1c2d6151009cc511257c88\\transformed\\core-1.7.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

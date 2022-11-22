@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\GHL05\\docs\\listar\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\GHL05\\.gradle\\caches\\transforms-3\\fd5c78282a95b4e141efb07cb7123c70\\transformed\\core-1.8.0\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\GHL05\\docs\\listar\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\GHL05\\.gradle\\caches\\transforms-3\\fd5c78282a95b4e141efb07cb7123c70\\transformed\\core-1.8.0\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\GHL05\\docs\\listar\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\GHL05\\.gradle\\caches\\transforms-3\\fd5c78282a95b4e141efb07cb7123c70\\transformed\\core-1.8.0\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\GHL05\\docs\\listar\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\GHL05\\.gradle\\caches\\transforms-3\\fd5c78282a95b4e141efb07cb7123c70\\transformed\\core-1.8.0\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\GHL05\\docs\\listar\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\GHL05\\.gradle\\caches\\transforms-3\\fd5c78282a95b4e141efb07cb7123c70\\transformed\\core-1.8.0\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    }
+]

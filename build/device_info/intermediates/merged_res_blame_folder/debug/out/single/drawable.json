@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\GHL05\\docs\\listar\\build\\device_info\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\GHL05\\.gradle\\caches\\transforms-3\\27ba8b4a96957988e4923d265543f610\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\GHL05\\docs\\listar\\build\\device_info\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\GHL05\\.gradle\\caches\\transforms-3\\27ba8b4a96957988e4923d265543f610\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\GHL05\\docs\\listar\\build\\device_info\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\GHL05\\.gradle\\caches\\transforms-3\\27ba8b4a96957988e4923d265543f610\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\GHL05\\docs\\listar\\build\\device_info\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\GHL05\\.gradle\\caches\\transforms-3\\27ba8b4a96957988e4923d265543f610\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    }
+]

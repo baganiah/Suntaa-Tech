@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\GHL05\\docs\\listar\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\GHL05\\.gradle\\caches\\transforms-3\\27ba8b4a96957988e4923d265543f610\\transformed\\core-1.6.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\GHL05\\docs\\listar\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\GHL05\\.gradle\\caches\\transforms-3\\27ba8b4a96957988e4923d265543f610\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\GHL05\\docs\\listar\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\GHL05\\.gradle\\caches\\transforms-3\\27ba8b4a96957988e4923d265543f610\\transformed\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\GHL05\\docs\\listar\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\GHL05\\.gradle\\caches\\transforms-3\\27ba8b4a96957988e4923d265543f610\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\GHL05\\docs\\listar\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\GHL05\\.gradle\\caches\\transforms-3\\27ba8b4a96957988e4923d265543f610\\transformed\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\GHL05\\docs\\listar\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\GHL05\\.gradle\\caches\\transforms-3\\27ba8b4a96957988e4923d265543f610\\transformed\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
+    }
+]

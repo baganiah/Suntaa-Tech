@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\GHL05\\docs\\listar\\build\\video_player_android\\intermediates\\res\\merged\\debug\\values-de\\values-de.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\GHL05\\.gradle\\caches\\transforms-3\\680518b57c1c2d6151009cc511257c88\\transformed\\core-1.7.0\\res\\values-de\\values-de.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "750",
+                        "endColumns": "100",
+                        "endOffsets": "846"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\GHL05\\.gradle\\caches\\transforms-3\\a80999e4943dd262bc3a43813f92ebe9\\transformed\\jetified-exoplayer-core-2.18.1\\res\\values-de\\values-de.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,129,196,270,342,419,486,583,674",
+                        "endColumns": "73,66,73,71,76,66,96,90,75",
+                        "endOffsets": "124,191,265,337,414,481,578,669,745"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\GHL05\\docs\\listar\\build\\video_player_android\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-de\\values-de.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\GHL05\\.gradle\\caches\\transforms-3\\680518b57c1c2d6151009cc511257c88\\transformed\\core-1.7.0\\res\\values-de\\values-de.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "750",
+                        "endColumns": "100",
+                        "endOffsets": "846"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\GHL05\\.gradle\\caches\\transforms-3\\a80999e4943dd262bc3a43813f92ebe9\\transformed\\jetified-exoplayer-core-2.18.1\\res\\values-de\\values-de.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,129,196,270,342,419,486,583,674",
+                        "endColumns": "73,66,73,71,76,66,96,90,75",
+                        "endOffsets": "124,191,265,337,414,481,578,669,745"
+                    }
+                }
+            ]
+        }
+    ]
+}

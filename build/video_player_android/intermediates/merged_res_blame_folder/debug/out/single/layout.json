@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\GHL05\\docs\\listar\\build\\video_player_android\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\GHL05\\.gradle\\caches\\transforms-3\\680518b57c1c2d6151009cc511257c88\\transformed\\core-1.7.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\GHL05\\docs\\listar\\build\\video_player_android\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\GHL05\\.gradle\\caches\\transforms-3\\680518b57c1c2d6151009cc511257c88\\transformed\\core-1.7.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\GHL05\\docs\\listar\\build\\video_player_android\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\GHL05\\.gradle\\caches\\transforms-3\\680518b57c1c2d6151009cc511257c88\\transformed\\core-1.7.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\GHL05\\docs\\listar\\build\\video_player_android\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\GHL05\\.gradle\\caches\\transforms-3\\680518b57c1c2d6151009cc511257c88\\transformed\\core-1.7.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\GHL05\\docs\\listar\\build\\video_player_android\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\GHL05\\.gradle\\caches\\transforms-3\\680518b57c1c2d6151009cc511257c88\\transformed\\core-1.7.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\GHL05\\docs\\listar\\build\\video_player_android\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\GHL05\\.gradle\\caches\\transforms-3\\680518b57c1c2d6151009cc511257c88\\transformed\\core-1.7.0\\res\\layout\\notification_template_part_time.xml"
+    }
+]

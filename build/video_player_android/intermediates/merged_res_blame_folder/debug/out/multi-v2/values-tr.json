@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\GHL05\\docs\\listar\\build\\video_player_android\\intermediates\\res\\merged\\debug\\values-tr\\values-tr.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\GHL05\\.gradle\\caches\\transforms-3\\a80999e4943dd262bc3a43813f92ebe9\\transformed\\jetified-exoplayer-core-2.18.1\\res\\values-tr\\values-tr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,132,191,256,317,397,469,559,655",
+                        "endColumns": "76,58,64,60,79,71,89,95,75",
+                        "endOffsets": "127,186,251,312,392,464,554,650,726"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\GHL05\\.gradle\\caches\\transforms-3\\680518b57c1c2d6151009cc511257c88\\transformed\\core-1.7.0\\res\\values-tr\\values-tr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "731",
+                        "endColumns": "100",
+                        "endOffsets": "827"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\GHL05\\docs\\listar\\build\\video_player_android\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tr\\values-tr.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\GHL05\\.gradle\\caches\\transforms-3\\a80999e4943dd262bc3a43813f92ebe9\\transformed\\jetified-exoplayer-core-2.18.1\\res\\values-tr\\values-tr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,132,191,256,317,397,469,559,655",
+                        "endColumns": "76,58,64,60,79,71,89,95,75",
+                        "endOffsets": "127,186,251,312,392,464,554,650,726"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\GHL05\\.gradle\\caches\\transforms-3\\680518b57c1c2d6151009cc511257c88\\transformed\\core-1.7.0\\res\\values-tr\\values-tr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "731",
+                        "endColumns": "100",
+                        "endOffsets": "827"
+                    }
+                }
+            ]
+        }
+    ]
+}

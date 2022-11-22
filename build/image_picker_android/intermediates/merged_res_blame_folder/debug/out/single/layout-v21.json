@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\GHL05\\docs\\listar\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\GHL05\\.gradle\\caches\\transforms-3\\fd5c78282a95b4e141efb07cb7123c70\\transformed\\core-1.8.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\GHL05\\docs\\listar\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\GHL05\\.gradle\\caches\\transforms-3\\fd5c78282a95b4e141efb07cb7123c70\\transformed\\core-1.8.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\GHL05\\docs\\listar\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\GHL05\\.gradle\\caches\\transforms-3\\fd5c78282a95b4e141efb07cb7123c70\\transformed\\core-1.8.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\GHL05\\docs\\listar\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\GHL05\\.gradle\\caches\\transforms-3\\fd5c78282a95b4e141efb07cb7123c70\\transformed\\core-1.8.0\\res\\layout-v21\\notification_action.xml"
+    }
+]
